@@ -1,4 +1,5 @@
-name = input("Your name?")
-print("Hello, ", name)
+name = "Peter"
 
+print("Hello, ", name)
+print("nog meer????")
 print("nog iets hier")
